@@ -2,7 +2,7 @@
 
 ### Hi there 👋, and Welcome to my GitHub profile!
 
-I'm Mouad Hadria, a  master's student specializing in Intelligent Processing Systems, with a keen focus on Artificial Intelligence and Data Sciences. I possess a robust skill set in data analysis, and I have a proven track record of uncovering hidden trends and solving complex questions through data-driven insights. My passion for this field drives me to continually seek innovative ways to expand my knowledge. Feel free to explore my <a href="https://mouadmh.github.io/github.io/">portfolio</a> website to learn more about my work and projects.
+I'm Mouad Hadria, a data professional from Morocco driven by a deep curiosity for crafting data storage solutions and exploring data complexities. Currently, I'm fully immersed in advancing my knowledge and skills through pursuing a Master's degree in Intelligent Processing Systems at Mohammed V University Rabat. This program is deeply rooted in Artificial Intelligence and Data Engineering, aligning perfectly with my passion for these fields. Feel free to explore my <a href="https://mouadmh.github.io/github.io/">portfolio</a> website to learn more about my work and projects.
 
 
 <h3 align="left">Languages and Tools:</h3>
